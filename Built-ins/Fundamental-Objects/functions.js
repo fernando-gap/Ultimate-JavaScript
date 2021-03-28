@@ -25,7 +25,7 @@ function is called.
 */
 
 
-Function.prototype.call(this, args);
+Function.prototype.call(thisArg, args);
 /*
 
 The call(); method calls a function with a given this value and

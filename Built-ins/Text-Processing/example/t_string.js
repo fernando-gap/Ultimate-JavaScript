@@ -4,7 +4,7 @@ const string = "This is a simple text case, keep it in your mind.";
 // CharAt();
 
 console.log(string.charAt(0));
-// output: I
+// output: T
 
 
 // concat()

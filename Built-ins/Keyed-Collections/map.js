@@ -4,10 +4,21 @@
  * Indexed Colletions
  */
 
-/* A Map object iterates its elements in insertion order — a for...of loop returns an array of [key, value] for each iteration. */
 
-// Constructor
+/*
+
+A Map object iterates its elements in insertion order — a 
+for...of loop returns an array of [key, value] for each 
+iteration. 
+
+*/
+
 const map = new Map();
+/*
+
+Constructor
+
+*/
 
 // Instance Properties
 
